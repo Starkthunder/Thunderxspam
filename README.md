@@ -15,7 +15,7 @@
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
 <br>
 
-[![Deploy](https://github.com/Starkthunder/Thunderxspam.git)](https://dashboard.heroku.com/new?template=https://github.com/ItZxSTaR/XBOTS)
+[![Deploy](https://github.com/Starkthunder/Thunderxspam.git)](https://dashboard.heroku.com/new?template=https://github.com/Starkthunder/THUNDERxBOLT.git)
 
 </details>
 
